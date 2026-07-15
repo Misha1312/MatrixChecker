@@ -1,4 +1,4 @@
 # MatrixChecker
 Advanced Minecraft Cheat Checker.
 
-Finds # any known cheat# , compares by 
+Finds any known cheat, compares by name, size, or hash.
